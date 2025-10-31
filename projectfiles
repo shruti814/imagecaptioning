@@ -1,0 +1,9 @@
+imagecaptioning/
+│
+├── app.py
+├── caption_segmentation.py
+├── requirements.txt
+├── README.md
+├── .gitignore
+└── sample_images/
+     └── sample1.jpg  (just one test image is fine)
